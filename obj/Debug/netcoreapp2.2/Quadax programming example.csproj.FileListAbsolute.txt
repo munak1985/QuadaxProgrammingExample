@@ -1,0 +1,11 @@
+H:\Quadax programming example\bin\Debug\netcoreapp2.2\Quadax programming example.deps.json
+H:\Quadax programming example\bin\Debug\netcoreapp2.2\Quadax programming example.runtimeconfig.json
+H:\Quadax programming example\bin\Debug\netcoreapp2.2\Quadax programming example.runtimeconfig.dev.json
+H:\Quadax programming example\bin\Debug\netcoreapp2.2\Quadax programming example.dll
+H:\Quadax programming example\bin\Debug\netcoreapp2.2\Quadax programming example.pdb
+H:\Quadax programming example\obj\Debug\netcoreapp2.2\Quadax programming example.csprojAssemblyReference.cache
+H:\Quadax programming example\obj\Debug\netcoreapp2.2\Quadax programming example.csproj.CoreCompileInputs.cache
+H:\Quadax programming example\obj\Debug\netcoreapp2.2\Quadax programming example.AssemblyInfoInputs.cache
+H:\Quadax programming example\obj\Debug\netcoreapp2.2\Quadax programming example.AssemblyInfo.cs
+H:\Quadax programming example\obj\Debug\netcoreapp2.2\Quadax programming example.dll
+H:\Quadax programming example\obj\Debug\netcoreapp2.2\Quadax programming example.pdb
